@@ -13,3 +13,6 @@ with bearer token is going to return all curreny values in db
 
 http://localhost/currency/1
 with bearer token will return currency with id 1
+
+http://localhost/update
+to update all currencies from http://www.cbr.ru/scripts/XML_daily.asp
